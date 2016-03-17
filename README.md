@@ -17,7 +17,7 @@ The class [Notification][2] was added in the Android 3.0 (API level 11), but thi
 sample refers to the [NotificationCompat][3] class (part of the [support library][4]),
  which offers the same functionality for Android 1.6 (API level 4) or newer.
 
-A Notificaiton can be created using Notification.Builder object.
+A Notification can be created using Notification.Builder object.
 At bare minimum, a Builder object must include the following:
 - A small icon, set by [setSmallIcon()][5]
 - A title, set by [setContentTitle()][6]
