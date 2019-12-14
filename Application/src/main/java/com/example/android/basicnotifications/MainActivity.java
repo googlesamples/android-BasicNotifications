@@ -74,7 +74,7 @@ public class MainActivity extends Activity {
         builder.setLargeIcon(BitmapFactory.decodeResource(getResources(), R.drawable.ic_launcher));
 
         /**
-         * Set the text of the notification. This sample sets the three most commononly used
+         * Set the text of the notification. This sample sets the three most commonly used
          * text areas:
          * 1. The content title, which appears in large type at the top of the notification
          * 2. The content text, which appears in smaller text below the title
